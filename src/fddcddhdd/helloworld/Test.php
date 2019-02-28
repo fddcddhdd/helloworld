@@ -1,6 +1,10 @@
 <?php
-namespace fddcddhdd\helloworld;
-class Test
+namespace fddcddhdd;
+
+class helloworld
 {
-    return 'hello, world';
+    public function say()
+    {
+        return 'hello, world';
+    }
 }
