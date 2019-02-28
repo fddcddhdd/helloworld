@@ -1,10 +1,11 @@
 {
     "name": "fddcddhdd/helloworld",
-    "authors": [
-        {
-            "name": "t.suzuki",
-            "email": "t.suzuki@denet.co.jp"
+    "description": "test for composer",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "fddcddhdd\\helloworld\\": "src/"
         }
-    ],
-    "require": {}
+    }
 }
