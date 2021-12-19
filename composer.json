@@ -1,11 +1,11 @@
 {
-    "name": "fddcddhdd/helloworld",
+    "name": "testreponame/helloworld",
     "description": "test for composer",
     "license": "MIT",
     "require": {},
     "autoload": {
         "psr-4": {
-            "fddcddhdd\\helloworld\\": "src/"
+            "testreponame\\helloworld\\": "src/"
         }
     }
 }

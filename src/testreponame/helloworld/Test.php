@@ -1,5 +1,5 @@
 <?php
-namespace fddcddhdd;
+namespace testreponame;
 
 class helloworld
 {
